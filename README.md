@@ -10,11 +10,11 @@
 
 ## 🧑‍💻 Τεχνολογίες
 
-- 🔙 **Backend:** Node.js (Express), PostgreSQL
-- 🌐 **Frontend:** React, TypeScript
-- 📦 **Dockerized Microservices**: auth, credits, grades, institutions, reviews, orchestrator
-- ⚙️ **API Communication:** RESTful APIs
-- 🛠️ **CI/CD-ready & Containerized**
+- **Backend:** Node.js (Express), PostgreSQL
+- **Frontend:** React, TypeScript
+- **Dockerized Microservices**: auth, credits, grades, institutions, reviews, orchestrator
+- **API Communication:** RESTful APIs
+- **CI/CD-ready & Containerized**
 
 ---
 
