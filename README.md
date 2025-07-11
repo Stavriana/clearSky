@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 Τεχνολογίες
+## Τεχνολογίες
 
 - **Backend:** Node.js (Express), PostgreSQL
 - **Frontend:** React, TypeScript
