@@ -1,6 +1,22 @@
 # NTUA ECE SAAS 2025 PROJECT
 
-## TEAM 21
+# 🌤️ ClearSky — SaaS Εφαρμογή Διαχείρισης Βαθμολογιών & Αναθεωρήσεων
+
+Το **ClearSky** είναι μια σύγχρονη SaaS web εφαρμογή για ιδρύματα τριτοβάθμιας εκπαίδευσης, που διευκολύνει τη διαδικασία **ανέβασμα βαθμολογιών**, **αίτηση αναθεώρησης** και **αποδοχή/απόρριψη** από πλευράς διδάσκοντα.
+
+Η εφαρμογή έχει υλοποιηθεί με αρχιτεκτονική **microservices** και προσφέρει **διασύνδεση Google**, **φόρτωση Excel**, **credit σύστημα αιτήσεων** και **ενορχήστρωση μέσω orchestrator service**.
+
+---
+
+## 🧑‍💻 Τεχνολογίες
+
+- 🔙 **Backend:** Node.js (Express), PostgreSQL
+- 🌐 **Frontend:** React, TypeScript
+- 📦 **Dockerized Microservices**: auth, credits, grades, institutions, reviews, orchestrator
+- ⚙️ **API Communication:** RESTful APIs
+- 🛠️ **CI/CD-ready & Containerized**
+
+---
 
 🛠️ Οδηγίες
 Βεβαιώσου ότι το Docker Desktop είναι ανοιχτό και σε λειτουργία!!
